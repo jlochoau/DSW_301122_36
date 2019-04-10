@@ -7,6 +7,8 @@ header {
 		}
 .main 	{
 		background:#B3B3B3;
+		text-align: justify;
+		;
 		}
 .main1 	{
 		background:#FFF;
@@ -14,9 +16,13 @@ header {
 aside 	{
 		background:#FFF;
 		color:#000;
+		text-align: justify;
 		}
 footer	{
 		background:#43C7F4;
+		}
+.footerp	{
+		background:#FFFFFF;
 		}
 p {
 	font-family: 'Angsana New';
